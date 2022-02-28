@@ -1,0 +1,10 @@
+body {
+font-family: sans-serif
+}
+
+.cat01 {
+width: 600px; 	}
+
+.123 {
+	width: min(90%, 1000%);
+border: 3px solid hotpink;}
